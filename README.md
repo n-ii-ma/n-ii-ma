@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Nima
 - 👀 I’m interested in Video Games and Cats
-- 🌱 I’m currently learning to become a Full-Stack Engineer at Codecademy
 <!--- - 💞️ I’m looking to collaborate on ... --->
 <!--- - 📫 How to reach me ... --->
 
